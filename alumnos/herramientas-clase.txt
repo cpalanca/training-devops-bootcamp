@@ -4,3 +4,6 @@
 #
 # Ejemplo:
 # - Carlos Palanca: Neovim
+
+ Ejemplo:
+ - Miguel Velasco: Neovim
