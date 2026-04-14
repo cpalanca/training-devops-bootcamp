@@ -16,8 +16,3 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
-<<<<<<< HEAD
-
-# PromptLab
-
-apps/promptlab/backend/data/promptlab.db
