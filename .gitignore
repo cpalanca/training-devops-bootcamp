@@ -16,4 +16,9 @@ Thumbs.db
 *.swp
 
 # PromptLab
+
 apps/promptlab/backend/data/promptlab.db
+
+
+# Docker lab de momento
+bootcamp-web-content/
