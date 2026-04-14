@@ -7,7 +7,7 @@ node_modules/
 
 # Base de datos local de PromptLab
 backend/data/promptlab.db
-backend/data
+apps/promptlab/backend/data
 
 # Sistema operativo
 .DS_Store
