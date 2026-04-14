@@ -1,10 +1,12 @@
 # Dependencias
 node_modules/
-vendor/
 
 # Variables de entorno (secretos)
 .env
 .env.local
+
+# Base de datos local de PromptLab
+backend/data/promptlab.db
 
 # Sistema operativo
 .DS_Store
@@ -14,6 +16,7 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+<<<<<<< HEAD
 
 # PromptLab
 
@@ -22,3 +25,5 @@ apps/promptlab/backend/data/promptlab.db
 
 # Docker lab de momento
 bootcamp-web-content/
+=======
+>>>>>>> 0a10ff561245bd9fcb77e8d1e6a9c14ddc7a0935
